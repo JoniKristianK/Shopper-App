@@ -38,12 +38,14 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   price: {
+    fontSize: 'open-sans-bold',
     fontSize: 20,
     color: '#888',
     textAlign: 'center',
     marginVertical: 20,
   },
   description: {
+    fontSize: 'open-sans',
     fontSize: 14,
     textAlign: 'center',
     marginHorizontal: 20,
